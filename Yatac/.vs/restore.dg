@@ -1,0 +1,5 @@
+#:C:\git\Yatac\Yatac\test\Yatac.Service.Tests\Yatac.Service.Tests.xproj
+C:\git\Yatac\Yatac\test\Yatac.Service.Tests\Yatac.Service.Tests.xproj|C:\git\Yatac\Yatac\src\yatac.service\Yatac.Service.xproj
+C:\git\Yatac\Yatac\src\yatac.service\Yatac.Service.xproj|C:\git\Yatac\Yatac\src\yatac.models\Yatac.Models.xproj
+C:\git\Yatac\Yatac\src\yatac.service\Yatac.Service.xproj|C:\git\Yatac\Yatac\src\Yatac.Repository.Contracts\Yatac.Repository.Contracts.xproj
+C:\git\Yatac\Yatac\src\Yatac.Repository.Contracts\Yatac.Repository.Contracts.xproj|C:\git\Yatac\Yatac\src\yatac.models\Yatac.Models.xproj
